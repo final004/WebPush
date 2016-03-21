@@ -1,0 +1,10 @@
+{
+  "name": "RealtimeWebPush",
+  "short_name": "RealtimeWebPush",
+  "icons":[{
+  	"src": "images/icon.png"
+  }],
+  "start_url" : "/index.jsp",
+  "display": "standalone",
+  "gcm_sender_id": "829470770387"
+}

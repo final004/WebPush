@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+@import "main.css";
+
+#pageone .ui-content img {
+	width : 80%;
+}
+
+#pageone .ui-content a {
+	width : 40%;
+	height: 100px;
+	float: left;
+}
+
+.selectedBtn  a{
+	width: 70px !important;
+	height: 70px !important; 
+}
